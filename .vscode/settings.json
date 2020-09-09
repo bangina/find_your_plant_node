@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/60a6cfca-ea57-4a71-85f5-0513269109e1/resourceGroups/solbangall-find_your_plant-rg/providers/Microsoft.Web/sites/findyourplant",
+    "appService.deploySubpath": "."
+}
